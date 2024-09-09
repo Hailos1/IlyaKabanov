@@ -63,7 +63,7 @@ plugins:
   - roamlinks
 
 nav: 
-  - Превью: Preview.md
+  - Превью: index.md
   - Инструкция по блогу: Guide.md
   - Резюме: Resume.md
   - Журнал:
