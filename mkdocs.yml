@@ -55,8 +55,8 @@ plugins:
   - search
   - blog:
     - blog_dir: Journal
+    - post_dir: Journal/Notes
     - blog_toc: true
-    - post-dir: Journal/Notes
   - roamlinks
 
 nav: 
