@@ -57,6 +57,8 @@ plugins:
       blog_dir: "Journal"
       post_dir: "Journal/Notes"
       blog_toc: true
+      archive_name: "Архив"
+      categories_name: "Категории"
   - roamlinks
 
 nav: 

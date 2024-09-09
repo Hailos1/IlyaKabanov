@@ -1,11 +1,8 @@
 ---
 date:
   created: 2024-09-09
-  updated: 2024-09-09
-readtime: 15
+readtime: 1
 draft: false
-categories:
-  - Шаблоны
 links:
   - Preview: Preview.md
   - Journal: Journal/index.md
@@ -17,4 +14,4 @@ links:
 # Первая заметка
 
 Все заметки ведутся в формате шапка - запись.
-Шапка представляет собой небольшой yaml с короткой информацией о записи.
+Шапка представляет собой небольшой yaml с информацией о записи.
