@@ -53,8 +53,8 @@ plugins:
   - roamlinks
 
 nav: 
-  - Общая информация: index.md
-  - Инструкция по созданию блога: Guide.md
+  - Превью: index.md
+  - Инструкция по блогу: Guide.md
   - Резюме: Resume.md
 
 extra_javascript:
