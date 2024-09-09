@@ -2,6 +2,8 @@ site_name: Илья Кабанов
 
 theme:
     name: 'material'
+    features:
+      - navigation.indexes
     logo: images/logo.svg
     palette:
 
@@ -51,12 +53,18 @@ markdown_extensions:
 
 plugins:
   - search
+  - blog:
+    - blog_dir: Journal
+    - blog_toc: true
+    - posts-dir: Journal/Notes
   - roamlinks
 
 nav: 
   - Превью: Preview.md
   - Инструкция по блогу: Guide.md
   - Резюме: Resume.md
+  - Журнал:
+    - Journal/index.md
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
