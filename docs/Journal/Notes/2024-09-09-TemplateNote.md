@@ -4,11 +4,11 @@ date:
 readtime: 1
 draft: false
 links:
-  - Preview: Preview.md
-  - Journal: Journal/index.md
-  - Guide: Guide.md
-  - External links:
-      - Material documentation: https://squidfunk.github.io/mkdocs-material
+  Preview: Preview.md
+  Journal: Journal/index.md
+  Guide: Guide.md
+  External links:
+    Material documentation: https://squidfunk.github.io/mkdocs-material
 ---
 
 # Первая заметка
