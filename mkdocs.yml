@@ -2,7 +2,6 @@ site_name: Илья Кабанов
 
 theme:
     name: 'material'
-    logo: images/logo.svg
     palette:
 
     # Light mode
@@ -10,6 +9,7 @@ theme:
       scheme: default
       primary: white
       accent: black
+      logo: images/logo-light.svg
       toggle:
         icon: material/toggle-switch-off-outline
         name: Тёмная тема
@@ -19,6 +19,7 @@ theme:
       scheme: slate
       primary: black
       accent: gray
+      logo: images/logo-dark.svg
       toggle:
         icon: material/toggle-switch
         name: Светлая тема
