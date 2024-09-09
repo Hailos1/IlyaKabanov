@@ -52,10 +52,8 @@ plugins:
   - search
   - roamlinks
 
-nav: 
-  - Общая информация: index.md
-  - Инструкция по созданию блога: Guide.md
-  - Резюме: Resume.md
+nav:
+  - Резюме: index.md
 
 extra_javascript:
   - javascripts/mathjax.js
