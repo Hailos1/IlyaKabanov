@@ -1,4 +1,5 @@
 site_name: Илья Кабанов
+site_uri: https://hailos1.github.io/IlyaKabanov/Preview/ 
 
 theme:
     name: 'material'
