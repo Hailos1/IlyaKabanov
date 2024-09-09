@@ -53,10 +53,10 @@ markdown_extensions:
 
 plugins:
   - search
-  - blog:
+  - Blog:
     - blog_dir: Journal
     - blog_toc: true
-    - posts-dir: Journal/Notes
+    - post-dir: Journal/Notes
   - roamlinks
 
 nav: 
