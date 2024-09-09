@@ -54,8 +54,8 @@ markdown_extensions:
 plugins:
   - search
   - blog:
-    - blog_dir: Journal
-    - post_dir: Journal/Notes
+    - blog_dir: "Journal"
+    - post_dir: "{blog}/Notes"
     - blog_toc: true
   - roamlinks
 
