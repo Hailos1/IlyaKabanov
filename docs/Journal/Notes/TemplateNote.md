@@ -12,8 +12,6 @@ links:
   - Guide: Guide.md
   - External links:
       - Material documentation: https://squidfunk.github.io/mkdocs-material
-authors:
-  - Ilya Kabanov
 ---
 
 # Первая заметка
