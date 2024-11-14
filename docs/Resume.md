@@ -18,7 +18,7 @@
 
 - Работал над Backend для BI системы. (Rest API, Postgres, SignalR, NSwag for ClientGenerator, Semaphores, EF Core). Включая проектировку системы и переноса её со старого стороннего сервиса.
 - Разработка сервиса для работы с абстрактными данными. (Rest API, Postgres with EF for our database, Linq2Db for dynamic connections to databases)
-- В настоящее время работаю над backend для межсервисного взаимодействия через gRPC. (Rest API, gRPC, Clickhouse, CQRS, MediatR)
+- В настоящее время работаю над backend для межсервисного взаимодействия через gRPC. (Rest API, gRPC, Clickhouse, CQRS, MediatR, Kafka, Redis для кэша); Kafka используется для выдачи расчётных задач другим сервисам, сервисы забирают и выполняют свои задачи, и если надо, то отправляют задачи дальше в кафку.
 - Опыт с CI/CD Kubernetes (Работал в настроенной CI/CD среде, разворачивал и настраивал новые микро-сервисы по средством создания новых и доработки старых пайплайнов)
 ##### *Июнь 2023 - Август 2023*
 
@@ -42,6 +42,7 @@
 - Entity Framework ⭐⭐⭐⭐**☆**
 - Linq2Db ⭐⭐⭐⭐**☆**
 - CQRS, MediatR ⭐⭐⭐⭐**☆**
+- Kafka ⭐⭐⭐**☆☆**
 - Roslyn ⭐⭐⭐**☆☆**
 - gRPC ⭐⭐⭐**☆☆**
 - Docker ⭐⭐⭐**☆☆**
